@@ -23,4 +23,4 @@ spec:
       middlewares:
         - name: default-headers
   tls:
-    secretName: jimsgarage-tls # change to your cert
+    secretName: sullyss.win-tls # change to your cert
